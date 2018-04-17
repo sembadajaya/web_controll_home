@@ -1,0 +1,14 @@
+-rfoutlet (rf transmitter n receiver)
+-base_url (not set base_url for dynamic ip address)
+-python gpio (add some python file for gpio raspberry)
+
+
+27/10/17
+-add wifi and rf form
+-add rf function to on and off
+
+error
+-cant edit device (modal save last form, data cant show)
+
+29/10/17
+FIX edit device with dynamic type
